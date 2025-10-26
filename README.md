@@ -1,9 +1,4 @@
-**“DriveSmart: Data-Powered Decision Support for Accident Severity Analysis.”**
-You can directly upload this as `README.md` to your repo 👇
-
----
-
-# 🚗 **DriveSmart: Data-Powered Decision Support for Accident Severity Analysis**
+# **DriveSmart: Data-Powered Decision Support for Accident Severity Analysis**
 
 ### 📊 *A Machine Learning-Based System to Predict Road Accident Severity and Support Data-Driven Decision Making*
 
