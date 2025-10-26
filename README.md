@@ -1,6 +1,3 @@
-# DriveSmart-Accident-Severity-Analysis
-
-Here’s a professional and complete **README.md** file for your GitHub repository of the project
 **“DriveSmart: Data-Powered Decision Support for Accident Severity Analysis.”**
 You can directly upload this as `README.md` to your repo 👇
 
